@@ -1,0 +1,18 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning Node Js",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "author": "Ghost",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "slugify": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
